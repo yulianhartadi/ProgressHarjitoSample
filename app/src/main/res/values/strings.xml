@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgressHarjito</string>
+    <string name="determinate">Determinate</string>
+    <string name="indeterminate">Indeterminate</string>
+    <string name="buffer">Buffer</string>
+    <string name="query_indeterminate_and_determinate">Query Indeterminate and Determinate</string>
+    <string name="determine">Determine</string>
+</resources>
